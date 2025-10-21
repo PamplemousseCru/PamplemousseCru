@@ -33,7 +33,6 @@
 
 <!-- Neon divider --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
-<img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
 
 <p align="center">
 <a href="https://www.linkedin.com/in/matthias-laithier" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/> </a>
