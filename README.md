@@ -17,7 +17,11 @@
 
 <div align="center">
 <!-- Core stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&custom_title=2025%20Stats"
+  height="165"
+/>
+
 <!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
 <!-- Streak -->
