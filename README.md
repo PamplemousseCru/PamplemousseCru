@@ -35,4 +35,10 @@
 </div>
 
 
-<p align="center"> <a href="https://www.linkedin.com/in/matthias-laithier" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/> </a> <a href="mailto:matthias.laithier@epita.fr" target="_blank"> <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/> </a> </p> <!-- Footer wave --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF00FF,50:7A00FF,100:00FFFF&section=footer" /> </p>
+<p align="center">
+<a href="https://www.linkedin.com/in/matthias-laithier" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/> </a>
+<a href="mailto:matthias.laithier@epita.fr" target="_blank"> <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/> </a>
+</p>
+
+<!-- Footer wave -->
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF00FF,50:7A00FF,100:00FFFF&section=footer" /> </p>
