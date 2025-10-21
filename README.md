@@ -19,6 +19,7 @@ Currently: AI & Data Student @ EPITA
 Interests:
   - Deep Learning & LLMs / CNNs 🤖
 Motto: "Think in vectors, dream in tensors."
+```
 
 ### My Tech Universe
 
