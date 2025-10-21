@@ -1,23 +1,21 @@
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&theme=radical)
+<!-- Futuristic / Neon GitHub Profile README -->
 
-<img src="https://github.com/user-attachments/assets/754f7f48-57b4-4b8f-9054-b21ef7803698" width="300px" align="right" alt="A professional animation coder gif"/>
+<h1 align="center">
+  ⚡ Welcome to <span style="color:#00ffff;">@YourUsername</span>'s World ⚡
+</h1>
 
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hasanmonsur/hasanmonsur/main/github-user-contribution.svg">
-  </picture>
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Open-Source+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true" />
-</picture>
+---
+
+### About Me
+
+```yaml
+Name: Matthias Laithier
+From: France 🇫🇷
+Currently: AI & Data Student @ EPITA
+Interests:
+  - Deep Learning & LLMs / CNNs 🤖
+Motto: "Think in vectors, dream in tensors."
