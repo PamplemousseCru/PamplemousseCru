@@ -2,7 +2,7 @@
 
 <!-- Neon wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,50:7A00FF,100:FF00FF&text=Matthias-Laithier&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,50:7A00FF,100:FF00FF&text=Matthias+Laithier&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=60&animation=fadeIn" />
 </p>
 
 <!-- Typing banner -->
