@@ -20,9 +20,15 @@
 
 
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tf,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
-<div align="center"> <!-- Core stats --> <img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" /> <!-- Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" /> <!-- Streak --> <img src="https://streak-stats.demolab.com?user=PamplemousseCru&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
+<div align="center">
+<!-- Core stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+<!-- Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
+<!-- Streak -->
+<img src="https://streak-stats.demolab.com?user=PamplemousseCru&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
 
 <p align="center"> <!-- This file is produced by the workflow below after it runs once --> <img src="https://raw.githubusercontent.com/PamplemousseCru/PamplemousseCru/output/snake-dark.svg" alt="commit snake" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF00FF&height=1&section=footer" /> </p>
 
