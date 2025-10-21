@@ -1,7 +1,7 @@
 <!-- Futuristic / Neon GitHub Profile README -->
 
 <h1 align="center">
-  ⚡ Welcome to <span style="color:#00ffff;">@YourUsername</span>'s World ⚡
+  Welcome to <span style="color:#00ffff;">@PamplemousseCru</span>'s World
 </h1>
 
 <p align="center">
@@ -19,3 +19,7 @@ Currently: AI & Data Student @ EPITA
 Interests:
   - Deep Learning & LLMs / CNNs 🤖
 Motto: "Think in vectors, dream in tensors."
+
+### My Tech Universe
+
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity" /> </p>
