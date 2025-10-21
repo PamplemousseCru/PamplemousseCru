@@ -17,10 +17,13 @@
 
 <div align="center">
 <!-- Core stats -->
-<img
-  src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&custom_title=2025%20Stats"
-  height="165"
-/>
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=10&hide_border=true&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&hide_progress=false&cache_seconds=7200"
+    height="180"
+    alt="Top languages"
+  />
+</p>
 
 <!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
