@@ -10,11 +10,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Neon+code%2C+futuristic+ideas.;LLMs%2C+CNNs%2C+Optimization%2C+GPU.;Open-source+and+high-impact+projects." alt="Typing SVG" />
 </p>
 
-<!-- Neon divider -->
-<p align="center">
-  <img src="https://img.shields.io/badge/-NEON%20ZONE-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=7A00FF&color=00FFFF">
-</p>
-
 <!-- Neon divider --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
