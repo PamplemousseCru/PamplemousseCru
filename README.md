@@ -16,14 +16,6 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
 <div align="center">
-<!-- Core stats -->
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=10&hide_border=true&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117&hide_progress=false&cache_seconds=7200"
-    height="180"
-    alt="Top languages"
-  />
-</p>
 
 <!-- Languages -->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" />
