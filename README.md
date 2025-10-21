@@ -31,6 +31,11 @@
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center">
 
+<!-- Snake -->
+<div align="center">
+   <img style="padding: 20px" src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+</div>
+
 <!-- Neon divider --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
