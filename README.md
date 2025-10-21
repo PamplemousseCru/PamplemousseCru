@@ -27,8 +27,13 @@
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
 <div align="center">
+
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
+<img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center">
+
+<!-- Neon divider --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
 
 <div align="center">
    <img style="padding: 20px" src="https://github.com/Matthias-Laithier/Matthias-Laithier/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
