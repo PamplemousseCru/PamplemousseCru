@@ -7,7 +7,7 @@
 
 <!-- Typing banner -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Neon+code%2C+futuristic+ideas.;LLMs%2C+CNNs%2C+Optimization%2C+GPU.;Open-source+and+high-impact+projects." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Neon+code%2C+futuristic+ideas." alt="Typing SVG" />
 </p>
 
 <!-- Neon divider --> 
