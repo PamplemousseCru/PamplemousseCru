@@ -31,4 +31,4 @@ Motto: "Think in vectors, dream in tensors."
 
 ### My Contribution Snake
 
-<p align="center"> <img src="https://raw.githubusercontent.com/YourUsername/YourUsername/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+<p align="center"> <img src="https://raw.githubusercontent.com/PamplemousseCru/PamplemousseCru/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
