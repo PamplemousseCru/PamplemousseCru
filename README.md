@@ -10,6 +10,11 @@
   <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=3000&color=00FFFF&center=true&vCenter=true&width=900&lines=Think+in+vectors%2C+dream+in+tensors." alt="Typing SVG" />
 </p>
 
+<!-- Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=1&section=footer" />
+</p>
+
 <!-- About Me -->
 <p align="center">
   <em>
@@ -17,10 +22,6 @@
     Passionate about applied deep learning, model interpretability, and the intersection of science & creativity.
   </em>
 </p>
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=00FFFF&height=1&section=footer" />
-</p>
-
 
 <!-- Neon divider --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
