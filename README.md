@@ -2,7 +2,7 @@
 
 <!-- Neon wave header -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,50:7A00FF,100:FF00FF&text=PamplemousseCru&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=60&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,50:7A00FF,100:FF00FF&text=Matthias-Laithier&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=60&animation=fadeIn" />
 </p>
 
 <!-- Typing banner -->
@@ -17,10 +17,10 @@
 
 <div align="center">
 <!-- Streak -->
-<img src="https://streak-stats.demolab.com?user=PamplemousseCru&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
+<img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
 
 <div align="center">
-   <img style="padding: 20px" src="https://github.com/PamplemousseCru/PamplemousseCru/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+   <img style="padding: 20px" src="https://github.com/Matthias-Laithier/Matthias-Laithier/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 </div>
 
 
