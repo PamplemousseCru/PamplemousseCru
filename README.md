@@ -15,18 +15,8 @@
   <img src="https://img.shields.io/badge/-NEON%20ZONE-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=7A00FF&color=00FFFF">
 </p>
 
-### 💫 About Me
-```yaml
-Name: Matthias Laithier
-From: France 🇫🇷
-Currently: AI & Data Student @ EPITA
-Focus:
-  - Deep Learning (LLMs, CNNs)
-  - High-Performance Training (GPU/XLA)
-  - Data Engineering & MLOps
-Motto: "Think in vectors, dream in tensors."
-```
-<!-- Neon glow quote --> <blockquote> <strong style="color:#00ffff; text-shadow: 0 0 6px #00ffff, 0 0 16px #7A00FF;"> Shipping > Perfection • Measure • Iterate • Glow ✨ </strong> </blockquote> <!-- Neon divider --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
+<!-- Neon divider --> 
+<p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
 
 
