@@ -1,34 +1,39 @@
-<!-- Futuristic / Neon GitHub Profile README -->
+<!-- NEON / FUTURISTIC PROFILE README -->
 
-<h1 align="center">
-  Welcome to <span style="color:#00ffff;">@PamplemousseCru</span>'s World
-</h1>
-
+<!-- Neon wave header -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=28&duration=3000&pause=1000&color=00FFFF&center=true&vCenter=true&width=600&lines=AI+Engineer+%7C+Data+Scientist;Open-Source+Enthusiast;Building+the+Future+with+Code" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:00FFFF,50:7A00FF,100:FF00FF&text=PamplemousseCru&fontSize=60&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=AI%20Engineer%20%7C%20Data%20Scientist%20%7C%20Builder&descAlignY=60&animation=fadeIn" />
 </p>
 
----
+<!-- Typing banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=28&duration=3000&pause=800&color=00FFFF&center=true&vCenter=true&width=900&lines=Neon+code%2C+futuristic+ideas.;LLMs%2C+CNNs%2C+Optimization%2C+GPU.;Open-source+and+high-impact+projects." alt="Typing SVG" />
+</p>
 
-### About Me
+<!-- Neon divider -->
+<p align="center">
+  <img src="https://img.shields.io/badge/-NEON%20ZONE-0D1117?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=7A00FF&color=00FFFF">
+</p>
 
+### 💫 About Me
 ```yaml
 Name: Matthias Laithier
 From: France 🇫🇷
 Currently: AI & Data Student @ EPITA
-Interests:
-  - Deep Learning & LLMs / CNNs 🤖
+Focus:
+  - Deep Learning (LLMs, CNNs)
+  - High-Performance Training (GPU/XLA)
+  - Data Engineering & MLOps
 Motto: "Think in vectors, dream in tensors."
 ```
+<!-- Neon glow quote --> <blockquote> <strong style="color:#00ffff; text-shadow: 0 0 6px #00ffff, 0 0 16px #7A00FF;"> Shipping > Perfection • Measure • Iterate • Glow ✨ </strong> </blockquote> <!-- Neon divider --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
-### My Tech Universe
 
-<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity" /> </p>
 
-### My Stats
+<p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tf,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
 
-<div align="center">
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" /> <!-- Most Used Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" />
-</div>
+<div align="center"> <!-- Core stats --> <img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" /> <!-- Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="165" /> <!-- Streak --> <img src="https://streak-stats.demolab.com?user=PamplemousseCru&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=7A00FF&height=1&section=footer" /> </p>
+
+<p align="center"> <!-- This file is produced by the workflow below after it runs once --> <img src="https://raw.githubusercontent.com/PamplemousseCru/PamplemousseCru/output/snake-dark.svg" alt="commit snake" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=FF00FF&height=1&section=footer" /> </p>
+
+<p align="center"> <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=for-the-badge&logo=linkedin&logoColor=0D1117"/> </a> <a href="mailto:YOUR@EMAIL.COM" target="_blank"> <img src="https://img.shields.io/badge/Email-FF00FF?style=for-the-badge&logo=gmail&logoColor=0D1117"/> </a> </p> <!-- Footer wave --> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&height=140&color=0:FF00FF,50:7A00FF,100:00FFFF&section=footer" /> </p>
