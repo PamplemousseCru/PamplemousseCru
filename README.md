@@ -29,6 +29,4 @@ Motto: "Think in vectors, dream in tensors."
 
 <div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=PamplemousseCru&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" /> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PamplemousseCru&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" /> </div>
 
-### My Contribution Snake
-
-<p align="center"> <img src="https://raw.githubusercontent.com/PamplemousseCru/PamplemousseCru/output/github-contribution-grid-snake-dark.svg" alt="snake animation" /> </p>
+<p align="center"> <img src="https://img.shields.io/badge/Made%20with-%E2%9D%A4%EF%B8%8F%20and%20%F0%9F%92%A1-blueviolet?style=for-the-badge"/> </p> ```
