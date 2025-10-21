@@ -33,7 +33,7 @@
 
 <!-- Snake -->
 <div align="center">
-   <img style="padding: 20px" src="https://github.com/cedric190703/cedric190703/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
+   <img style="padding: 20px" src="https://github.com/Matthias-Laithier/Matthias-Laithier/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake">
 </div>
 
 <!-- Neon divider --> 
