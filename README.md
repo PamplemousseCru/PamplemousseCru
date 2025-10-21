@@ -18,6 +18,9 @@
 <!-- Neon divider --> 
 <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF,50:7A00FF,100:FF00FF&height=2&section=footer" /> </p>
 
+<p align="center">
+  <img src="./assets/snake-dark.svg" alt="commit snake"/>
+</p>
 
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity&perline=10" /> </p> <p align="center"> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00FFFF&height=1&section=footer" /> </p>
