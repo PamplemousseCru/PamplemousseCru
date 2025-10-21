@@ -24,3 +24,7 @@ Motto: "Think in vectors, dream in tensors."
 ### My Tech Universe
 
 <p align="center"> <img src="https://skillicons.dev/icons?i=python,c,cpp,tensorflow,pytorch,linux,git,github,latex,unity" /> </p>
+
+### My Stats
+
+<div align="center"> <!-- GitHub Stats --> <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical&hide_border=true&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" /> <!-- Most Used Languages --> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical&hide_border=true&title_color=00FFFF&text_color=FFFFFF&bg_color=0D1117" height="180em" /> </div>
