@@ -30,6 +30,14 @@
 
 <!-- Streak -->
 <img src="https://streak-stats.demolab.com?user=Matthias-Laithier&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117" height="165" /> </div> <p align="center">
+<div align="center">
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_REAL_USERNAME_HERE&theme=radical&hide_border=true&ring=00FFFF&fire=FF00FF&currStreakLabel=FFFFFF&background=0D1117"
+    alt="GitHub Streak"
+    height="165"
+  />
+</div>
+
 
 <!-- Snake -->
 <div align="center">
